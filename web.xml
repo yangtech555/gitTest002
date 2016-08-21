@@ -15,6 +15,6 @@
 
   <servlet-mapping>
     <servlet-name>seckill-dispatcher</servlet-name>
-    <url-pattern>/b2 modify 001</url-pattern>
+    <url-pattern>/b2 modify 002</url-pattern>
   </servlet-mapping>
   </web-app>
