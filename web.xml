@@ -14,7 +14,7 @@
   </servlet>
 
   <servlet-mapping>
-    <servlet-name>seckill-dispatcher</servlet-name>
-    <url-pattern>/</url-pattern>
+    <servlet-name>seckill-dispatcher</servlet-name> 
+    <url-pattern>/master&b2 002</url-pattern>
   </servlet-mapping>
   </web-app>
